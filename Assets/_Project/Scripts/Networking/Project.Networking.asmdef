@@ -1,0 +1,28 @@
+{
+    "name": "Project.Networking",
+    "rootNamespace": "Studio.Networking",
+    "references": [
+        "Project.Core",
+        "Project.Managers",
+        "Project.Data",
+        "Project.Pooling",
+        "Project.Systems",
+        "Unity.Netcode.Runtime",
+        "Unity.Networking.Transport",
+        "Unity.Services.Core",
+        "Unity.Services.Authentication",
+        "Unity.Services.Multiplayer",
+        "Unity.Services.Lobbies",
+        "Unity.Services.Relay",
+        "Unity.Collections"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

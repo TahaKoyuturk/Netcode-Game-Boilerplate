@@ -1,0 +1,17 @@
+{
+    "name": "Project.Utilities",
+    "rootNamespace": "Studio.Utilities",
+    "references": [
+        "Project.Core",
+        "ZString"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

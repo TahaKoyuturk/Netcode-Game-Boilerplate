@@ -1,0 +1,17 @@
+{
+    "name": "Project.Data",
+    "rootNamespace": "Studio.Data",
+    "references": [
+        "Project.Core",
+        "NaughtyAttributes.Core"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

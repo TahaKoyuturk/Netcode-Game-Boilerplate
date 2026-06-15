@@ -1,0 +1,23 @@
+{
+    "name": "Project.UI",
+    "rootNamespace": "Studio.UI",
+    "references": [
+        "Project.Core",
+        "Project.Managers",
+        "Project.Systems",
+        "Project.Data",
+        "Project.Utilities",
+        "Unity.TextMeshPro",
+        "Unity.UGUI",
+        "Unity.InputSystem"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

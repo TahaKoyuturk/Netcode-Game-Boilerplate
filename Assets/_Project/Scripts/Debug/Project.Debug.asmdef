@@ -1,0 +1,19 @@
+{
+    "name": "Project.Debug",
+    "rootNamespace": "Studio.Debug",
+    "references": [
+        "Project.Core",
+        "Project.Managers",
+        "Project.Data",
+        "Project.Gameplay"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

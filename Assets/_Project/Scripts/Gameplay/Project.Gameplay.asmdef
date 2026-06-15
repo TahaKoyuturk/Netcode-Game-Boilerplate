@@ -1,0 +1,22 @@
+{
+    "name": "Project.Gameplay",
+    "rootNamespace": "Studio.Gameplay",
+    "references": [
+        "Project.Core",
+        "Project.Managers",
+        "Project.Networking",
+        "Project.UI",
+        "Project.Data",
+        "Project.Systems",
+        "Unity.InputSystem"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

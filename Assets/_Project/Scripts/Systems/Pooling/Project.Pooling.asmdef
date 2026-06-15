@@ -1,0 +1,18 @@
+{
+    "name": "Project.Pooling",
+    "rootNamespace": "Studio.Systems.Pooling",
+    "references": [
+        "Project.Core",
+        "Project.Utilities",
+        "Project.Data"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

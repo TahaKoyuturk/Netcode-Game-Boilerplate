@@ -1,0 +1,21 @@
+{
+    "name": "Project.Managers",
+    "rootNamespace": "Studio.Managers",
+    "references": [
+        "Project.Core",
+        "Project.Systems",
+        "Project.Data",
+        "Project.Utilities",
+        "Project.Pooling",
+        "Unity.TextMeshPro"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

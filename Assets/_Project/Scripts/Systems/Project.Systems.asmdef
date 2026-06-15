@@ -1,0 +1,20 @@
+{
+    "name": "Project.Systems",
+    "rootNamespace": "Studio.Systems",
+    "references": [
+        "Project.Core",
+        "Project.Data",
+        "Project.Utilities",
+        "Unity.InputSystem",
+        "Unity.TextMeshPro"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
